@@ -30,7 +30,7 @@ $ pip3 install thrift==0.11.0
 $ pip3 install tweepy
 $ pip3 install wikipedia
 $ apt install git
-$ git clone https://github.com/MAX-SELFBOT/SELFMAX
+$ git clone https://github.com/43884612/SELFMAX
 $ cd SELFMAX
 $ python3 max.py
 ```
@@ -54,7 +54,7 @@ $ sudo pip3 install thrift==0.11.0
 $ sudo pip3 install tweepy
 $ sudo pip3 install wikipedia
 $ sudo apt-get install git
-$ git clone https://github.com/MAX-SELFBOT/SELFMAX
+$ git clone https://github.com/43884612/SELFMAX
 $ cd SELFMAX
 $ python3 max.py
 ```
